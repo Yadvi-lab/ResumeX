@@ -3,6 +3,7 @@
 A Streamlit web app that reads a PDF resume, finds the technical skills it mentions, and compares them with a target role or a job description. It shows which skills are present, which are missing, and how to improve the resume. It can also rank sample job postings against the resume.
 
 Built as an M.Sc. (Data Science) minor project using Python.
+**[View Live App on Streamlit] (https://resumex-tnyg8obiurjuanjm3vhjen.streamlit.app/)**
 
 ## Features
 
